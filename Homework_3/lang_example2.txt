@@ -1,0 +1,22 @@
+var group_data = @{
+    name = "IKBO-40-23";
+    course = 2;
+}
+var yy = 123
+@{
+    student_1 = @{
+        fio = "Vorotnikova Elizaveta Semenovna";
+        group = ^[group_data]
+    };
+    student_2 = @{
+        fio = "Ivanov Ivan Ivanovich";
+        group = ^[group_data]
+    };
+    student_3 = @{
+        fio = "Petrov Petr Petrovich";
+        group = ^[group_data]
+        tt = ^[yy]
+    };
+
+}
+Х4

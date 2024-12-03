@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <visualizationProgramPath>./main.py</visualizationProgramPath>
+    <repositoryPath>D:/ROSATOM/MIREA_Configuration_management</repositoryPath>
+    <resultCodeFilePath>file.txt</resultCodeFilePath>
+</config>

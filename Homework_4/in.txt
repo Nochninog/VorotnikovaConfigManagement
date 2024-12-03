@@ -1,0 +1,19 @@
+# Заполняем вектор
+CONST B=0 C=0
+CONST B=1 C=19
+CONST B=2 C=38
+CONST B=3 C=57
+CONST B=4 C=77
+CONST B=5 C=100
+CONST B=6 C=119
+# Сохраняем делитель
+CONST B=7 C=19
+# Производим деление
+DIV B=10 C=1000 D=7 E=0
+DIV B=11 C=1000 D=7 E=1
+DIV B=12 C=1000 D=7 E=2
+DIV B=13 C=1000 D=7 E=3
+DIV B=14 C=1000 D=7 E=4
+DIV B=15 C=1000 D=7 E=5
+DIV B=16 C=1000 D=7 E=6
+# Результат будет в ячейках в 10 по 16

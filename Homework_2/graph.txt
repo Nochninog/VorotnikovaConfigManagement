@@ -1,0 +1,22 @@
+// Commit History Graph
+digraph {
+	0 [label="Commit: 613f80e
+Author: Александр Лебедев
+Date: 2024-09-27 11:19:28+03:00"]
+	1 [label="Commit: 2faad40
+Author: Александр Лебедев
+Date: 2024-09-27 10:54:55+03:00"]
+	0 -> 1
+	2 [label="Commit: 2ad1162
+Author: Александр Лебедев
+Date: 2024-09-27 10:50:57+03:00"]
+	1 -> 2
+	3 [label="Commit: 316508e
+Author: DaryaZzz
+Date: 2024-09-27 10:42:59+03:00"]
+	2 -> 3
+	4 [label="Commit: d036c60
+Author: Александр Лебедев
+Date: 2024-09-27 10:29:21+03:00"]
+	3 -> 4
+}

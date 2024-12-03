@@ -1,0 +1,24 @@
+{
+    "student_1": {
+        "fio": "Vorotnikova Elizaveta Semenovna",
+        "group": {
+            "name": "IKBO-40-23",
+            "course": 2
+        }
+    },
+    "student_2": {
+        "fio": "Ivanov Ivan Ivanovich",
+        "group": {
+            "name": "IKBO-40-23",
+            "course": 2
+        }
+    },
+    "student_3": {
+        "fio": "Petrov Petr Petrovich",
+        "group": {
+            "name": "IKBO-40-23",
+            "course": 2
+        },
+        "tt": 123
+    }
+}
